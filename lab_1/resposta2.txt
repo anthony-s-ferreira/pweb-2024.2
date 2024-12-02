@@ -1,7 +1,3 @@
-Cite três ferramentas ou tecnologias amplamente usadas no
-desenvolvimento web e explique como elas ajudam no processo
-de criação de aplicações web.
-
 CSS3: Facilita a criação de layouts modernos, responsivos e atraentes. Permite organizar 
 elementos de forma eficiente, além de suporte a animações e transições.
 

@@ -1,8 +1,3 @@
-Considere o cenário em que você está trabalhando em um projeto
-de site com sua dupla. Qual seria sua abordagem inicial para
-organizar as tarefas, escolher ferramentas e implementar boas
-práticas de versionamento e desenvolvimento?
-
 Para organizar as tarefas, utilizaríamos a metodologia SCRUM, separando 
 cada atividade para um membro da dupla, garantindo um balanceamento em 
 tempo de trabalho e dificuldade.
