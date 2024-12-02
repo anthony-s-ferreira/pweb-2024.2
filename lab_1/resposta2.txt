@@ -1,3 +1,9 @@
 Cite três ferramentas ou tecnologias amplamente usadas no
 desenvolvimento web e explique como elas ajudam no processo
 de criação de aplicações web.
+
+CSS3: Facilita a criação de layouts modernos, responsivos e com animações.
+JavaScript: Utilizado no desenvolvimento web moderno, como uma linguagem simples e 
+que responde à ação do usuário.
+HTML: Permitem organizar o conteúdo em elementos, baseada na ideias de hipertextos,
+possui separações como: títulos, parágrafos e links.
