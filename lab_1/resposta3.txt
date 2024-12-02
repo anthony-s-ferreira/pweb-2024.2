@@ -3,7 +3,8 @@ desenvolvimento colaborativo de software?
 
 É uma forma de garantir histórico e rastreabilidade, o processo de gerenciar mudanças
 no código-fonte ao longo do tempo.
-O uso do versionamento de código no desenvolvimento colaborativo é indispensável, dado
-que múltiplos desenvolvedores podem, ao mesmo tempo, colaborar com o código, sem precisar
-de cópias de outros desenvolvedores a cada colaboração, evitando o retrabalho e disperdicio
-de tempo.
+O uso do versionamento de código no desenvolvimento colaborativo é indispensável, 
+pois permite que múltiplos desenvolvedores colaborem no mesmo projeto ao mesmo tempo, 
+sem a necessidade de compartilhar manualmente cópias do código de outros desenvolvedores 
+a cada colaboração. Isso evita retrabalho e desperdício de tempo, tornando o processo mais 
+eficiente e organizado.

@@ -5,7 +5,8 @@ criação de sites interativos?
 Tanto para o desenvolvimento Frontend como Backend, JavaScript é muito utilizado 
 no desenvolvimento web moderno, como uma linguagem simples e que responde à ação do 
 usuário, sendo multiparadigma e, mais importante, interpretada no navegador.
-A necessidade da criação de sites dinâmicos era cada vez mais crescente na década de 
-90, então, em 1995, Brendon Eich criou o JavaScript para tornas os sites mais dinâmicos,
-uma linguagem que roda diretamente no navegador, que é capaz de manipular a página em 
-tempo real, sem depender dos servidores.
+A necessidade de criar sites dinâmicos cresceu rapidamente na década de 1990. Em 
+1995, Brendan Eich desenvolveu o JavaScript para atender a essa demanda, tornando 
+os sites mais dinâmicos e interativos. Com JavaScript, é possível manipular elementos 
+da página em tempo real, atualizar conteúdos dinamicamente e criar interfaces modernas 
+e responsivas, características essenciais para a web atual.

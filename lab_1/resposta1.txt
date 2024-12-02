@@ -4,10 +4,10 @@ mudaram a forma como a informação é compartilhada
 globalmente?
 
 Inicialmente criada para a divulgação científica, com a necessidade de 
-pesquisadores compartilharem inforamções de forma eficiente, a World Wide
+pesquisadores compartilharem informações de forma eficiente, a World Wide
 Web foi criada. Com um sistema baseado na interligação de documentos através
 de hipertextos, com ela, surgiu a linguagem HTML, permitindo organizar todo
 o conteúdo em elementos. A partir disso, houve a necessidade de tornar o uso
-da internet uma forma mais agradável, atraindo mais usuários e tornando o que
-hoje é a internet, com diversas novas tecnologias, iteratividade, conexão e 
-divulgaçãode informação.
+da internet uma forma mais agradável, com interfaces gráficas e responsivas, 
+atraindo mais usuários e tornando o que hoje é a internet, com diversas novas 
+tecnologias, interatividade, conexão e divulgação de informação.
